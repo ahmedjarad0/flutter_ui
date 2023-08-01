@@ -1,4 +1,4 @@
-# flutter_ui
+# photograph_ui
 
 A new Flutter project.
 
